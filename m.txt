@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1, Music Choice : Today's Country
+http://myghosthunt.great-site.net/mc/mc.php?id=121
+#EXTINF:-1, Music Choice : Pop & Country
+http://myghosthunt.great-site.net/mc/mc.php?id=132
+#EXTINF:-1, Music Choice : Country Hits
+http://myghosthunt.great-site.net/mc/mc.php?id=1115
+#EXTINF:-1, Music Choice : Pop Latino 
+http://myghosthunt.great-site.net/mc/mc.php?id=123
+#EXTINF:-1, Music Choice : Musica Urbana
+http://myghosthunt.great-site.net/mc/mc.php?id=128
+#EXTINF:-1, Music Choice : Tropicales
+http://myghosthunt.great-site.net/mc/mc.php?id=137
+#EXTINF:-1, Music Choice : Mexicana
+http://myghosthunt.great-site.net/mc/mc.php?id=131
+#EXTINF:-1, Music Choice : Alternative
+http://myghosthunt.great-site.net/mc/mc.php?id=122
+#EXTINF:-1, Music Choice : Indie
+http://myghosthunt.great-site.net/mc/mc.php?id=129
+#EXTINF:-1, Music Choice : Hit List
+http://myghosthunt.great-site.net/mc/mc.php?id=100
+#EXTINF:-1, Music Choice : Pop Hits
+http://myghosthunt.great-site.net/mc/mc.php?id=133
+#EXTINF:-1, Music Choice : Teen Beats
+http://myghosthunt.great-site.net/mc/mc.php?id=118
+#EXTINF:-1, Music Choice : Music Choice Max
+http://myghosthunt.great-site.net/mc/mc.php?id=1104
+#EXTINF:-1, Music Choice : Dance/EDM
+http://myghosthunt.great-site.net/mc/mc.php?id=127
+#EXTINF:-1, Music Choice : Y2K
+http://myghosthunt.great-site.net/mc/mc.php?id=145
+#EXTINF:-1, Music Choice : '90s
+http://myghosthunt.great-site.net/mc/mc.php?id=140
+#EXTINF:-1, Music Choice : '80s
+http://myghosthunt.great-site.net/mc/mc.php?id=1113
+#EXTINF:-1, Music Choice : Soft Rock
+http://myghosthunt.great-site.net/mc/mc.php?id=1118
+#EXTINF:-1, Music Choice : Brits + Hits
+http://myghosthunt.great-site.net/mc/mc.php?id=143
+#EXTINF:-1, Music Choice : Hip-Hop and R&B
+http://myghosthunt.great-site.net/mc/mc.php?id=106
+#EXTINF:-1, Music Choice : Rap
+http://myghosthunt.great-site.net/mc/mc.php?id=125
+#EXTINF:-1, Music Choice : R&B Soul
+http://myghosthunt.great-site.net/mc/mc.php?id=124
+#EXTINF:-1, Music Choice : Throwback Jamz
+http://myghosthunt.great-site.net/mc/mc.php?id=142
+#EXTINF:-1, Music Choice : Rap 2K
+http://myghosthunt.great-site.net/mc/mc.php?id=141
+#EXTINF:-1, Music Choice : Rock
+http://myghosthunt.great-site.net/mc/mc.php?id=138
+#EXTINF:-1, Music Choice : Metal
+http://myghosthunt.great-site.net/mc/mc.php?id=139
+#EXTINF:-1, Music Choice : Kidz Only!
+http://myghosthunt.great-site.net/mc/mc.php?id=130
+#EXTINF:-1, Music Choice : KIDZ BOP
+http://myghosthunt.great-site.net/mc/mc.php?id=1105
+#EXTINF:-1, Music Choice : Learn & Play
+http://myghosthunt.great-site.net/mc/mc.php?id=176
+#EXTINF:-1, Music Choice : Family Hits
+http://myghosthunt.great-site.net/mc/mc.php?id=1110
+#EXTINF:-1, Music Choice : Toddler Tunes
+http://myghosthunt.great-site.net/mc/mc.php?id=144
